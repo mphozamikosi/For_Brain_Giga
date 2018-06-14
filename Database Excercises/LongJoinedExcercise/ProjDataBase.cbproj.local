@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.975,=C:\Users\mphos\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.484,=C:\Users\mphos\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.673,=C:\Users\mphos\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.586,=C:\Users\mphos\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.700,=C:\Users\mphos\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.873,=C:\Users\mphos\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2017-09-19 15:12:27.000.024,=C:\Users\mphos\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2017-09-19 15:12:38.000.141,=C:\Users\mphos\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2017-09-19 15:15:01.000.218,=C:\Users\mphos\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2017-09-19 15:21:41.000.676,C:\2017 work\TPG201T\Database Excercises\LongJoinedExcercise\Unit2.dfm=C:\Users\mphos\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2017-09-19 15:21:41.000.676,C:\2017 work\TPG201T\Database Excercises\LongJoinedExcercise\Unit2.cpp=C:\Users\mphos\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2017-09-19 15:21:41.000.676,C:\2017 work\TPG201T\Database Excercises\LongJoinedExcercise\Unit2.h=C:\Users\mphos\Documents\Embarcadero\Studio\Projects\Unit2.h</Transaction>
+    <Transaction>2017-09-19 15:21:43.000.282,C:\2017 work\TPG201T\Database Excercises\LongJoinedExcercise\Unit1.cpp=C:\Users\mphos\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2017-09-19 15:21:43.000.282,C:\2017 work\TPG201T\Database Excercises\LongJoinedExcercise\Unit1.dfm=C:\Users\mphos\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2017-09-19 15:21:43.000.282,C:\2017 work\TPG201T\Database Excercises\LongJoinedExcercise\Unit1.h=C:\Users\mphos\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2017-09-19 15:21:45.000.430,C:\2017 work\TPG201T\Database Excercises\LongJoinedExcercise\Project1PCH1.h=C:\Users\mphos\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2017-09-19 15:21:55.000.940,C:\2017 work\TPG201T\Database Excercises\LongJoinedExcercise\ProjDataBase.cbproj=C:\Users\mphos\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2017-09-19 15:21:55.000.877,C:\2017 work\TPG201T\Database Excercises\LongJoinedExcercise\ProjDataBasePCH1.h=C:\2017 work\TPG201T\Database Excercises\LongJoinedExcercise\Project1PCH1.h</Transaction>
+    <Transaction>2017-09-27 10:56:24.000.071,C:\2017 work\TPG201T\Database Excercises\LongJoinedExcercise\Unit1.cpp=J:\Unit1.cpp</Transaction>
+    <Transaction>2017-09-27 10:56:24.000.071,C:\2017 work\TPG201T\Database Excercises\LongJoinedExcercise\Unit1.h=J:\Unit1.h</Transaction>
+    <Transaction>2017-09-27 10:56:24.000.071,C:\2017 work\TPG201T\Database Excercises\LongJoinedExcercise\Unit1.dfm=J:\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

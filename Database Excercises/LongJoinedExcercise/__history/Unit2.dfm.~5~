@@ -1,0 +1,74 @@
+object DMod: TDMod
+  OldCreateOrder = False
+  Height = 394
+  Width = 621
+  object ADOCon: TADOConnection
+    Connected = True
+    ConnectionString = 
+      'Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\2017 work\TPG20' +
+      '1T\Database Excercises\QuickBanana.accdb;Persist Security Info=F' +
+      'alse'
+    Mode = cmShareDenyNone
+    Provider = 'Microsoft.ACE.OLEDB.12.0'
+    Left = 32
+    Top = 32
+  end
+  object ADOInstructors: TADODataSet
+    Connection = ADOCon
+    CursorType = ctStatic
+    CommandText = 'select * from Instructors'
+    Parameters = <>
+    Left = 128
+    Top = 40
+    object ADOInstructorsInstructorPersID: TWideStringField
+      FieldName = 'InstructorPersID'
+      Size = 6
+    end
+    object ADOInstructorsInstructorSAID: TWideStringField
+      FieldName = 'InstructorSAID'
+      Size = 13
+    end
+    object ADOInstructorsInstructorName: TWideStringField
+      FieldName = 'InstructorName'
+      Size = 25
+    end
+    object ADOInstructorsInstructorSurname: TWideStringField
+      FieldName = 'InstructorSurname'
+      Size = 25
+    end
+    object ADOInstructorsInstructorContactNr: TWideStringField
+      FieldName = 'InstructorContactNr'
+      Size = 10
+    end
+    object ADOInstructorsInstructorLicenceCodes: TWideStringField
+      FieldName = 'InstructorLicenceCodes'
+      Size = 12
+    end
+    object ADOInstructorsEmpBasicSalPA: TBCDField
+      FieldName = 'EmpBasicSalPA'
+      Precision = 19
+    end
+  end
+  object ADOLearnerClients: TADODataSet
+    Connection = ADOCon
+    Parameters = <>
+    Left = 120
+    Top = 144
+  end
+  object dataSrcIns: TDataSource
+    DataSet = ADOInstructors
+    Left = 232
+    Top = 48
+  end
+  object dataSrcLearn: TDataSource
+    DataSet = ADOLearnerClients
+    Left = 232
+    Top = 152
+  end
+  object ADOCom: TADOCommand
+    Connection = ADOCon
+    Parameters = <>
+    Left = 320
+    Top = 152
+  end
+end

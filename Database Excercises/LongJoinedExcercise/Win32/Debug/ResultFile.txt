@@ -1,0 +1,433 @@
+Learner Clients with their preferred instructors
+=========================================================
+Learner Name		Learner Surname		Learner Cell		Preferred Instructor ID
+Justine		Claasen		0822595794		INS006		
+Athina		Jason		0727054116		INS004		
+Shameez		Potgieter		0722365709		INS004		
+Lee		Forson		0737183829		INS004		
+Clint		Steineveldt		0738816226		INS010		
+Darryl		Van Den Berg		0735415672		INS004		
+Lauren		Hagen		0842595794		INS007		
+Mthokozisi		Nondzimba		0724146572		INS002		
+Noxolo		Nase		0732595794		INS004		
+Bernita		Camons		0737256713		INS007		
+Jarred		Wicombe		0849858126		INS006		
+Dustin		Carney		0848816226		INS004		
+Liza		Jaga		0848223613		INS004		
+Josh		Nieuwenhuizen		0845179437		INS004		
+Rosanne		Kilgour		0847878490		INS004		
+Justin		van Deemter		0733685999		INS004		
+Ryan		Maxongo		0724386383		INS011		
+Sinoxolo		Ramaokane		0739499608		INS004		
+Jason		Rousseau		0732595794		INS004		
+Verusha		Rama		0734146572		INS009		
+Devon		Lagerdien		0827878490		INS004		
+Windy		Pow-Chong-Poo		0739602087		INS004		
+Cindy		Daniels		0737183829		INS004		
+Tatum		Mancoba		0842365709		INS004		
+Riana		Anderson		0825944470		INS004		
+Joshua		Rulsur		0832943971		INS009		
+Keith		Seafield		0833615004		INS004		
+Wesley		Pow-Chong		0723615004		INS004		
+Mandisa		Mapela		0725944470		INS004		
+Raydon		Von Steiger		0848377762		INS007		
+Nathan		Webb		0849602087		INS004		
+Mieke		Jooste		0842595794		INS004		
+Jesse		Oosthuizen		0844146572		INS008		
+Tamryn		Mahleza		0845179437		INS004		
+Kamzati		Mavuso		0822595794		INS004		
+Mandlenkosi		Yili		0829602087		INS004		
+Marara		Mapipa		0727054116		INS004		
+Perishka		Pillay		0738816226		INS011		
+Robert		Hustler		0845415672		INS004		
+Shelley		Lotter		0847054116		INS004		
+Tiisetso		Toba		0729858126		INS004		
+Maxine		Williams		0729858126		INS004		
+Chad		Sacks		0844146572		INS004		
+Fabian		Jones		0828377762		INS003		
+Anysha		Salie		0725179437		INS009		
+Kavish		Parbhoo		0722595794		INS004		
+Rehana		van Zyl		0727054116		INS004		
+Nthabeleng		Ncayo		0734146572		INS005		
+Dean		Njokweni		0735944470		INS004		
+Stuart		Williams		0844146572		INS010		
+Faith		Gallant		0825944470		INS004		
+Clarice		Septoo		0727054116		INS004		
+Kirby		Townsend		0722595794		INS004		
+Roxanne Glynnis		Wessels		0729499608		INS004		
+David		Sephten		0738377762		INS004		
+Ricky		Sirkhotte		0735415672		INS004		
+Janusz		Peterson		0847256713		INS011		
+Luke		Pienaar		0845944470		INS004		
+Sarah		Koekemoer		0849602087		INS004		
+Xolisa		Badela		0724146572		INS004		
+Zandile		Suka		0737054116		INS010		
+Cindy		De Vos		0738223613		INS004		
+Nathan		Van der Westhuizen		0739499608		INS011		
+Rushka		Mothan		0732943971		INS005		
+Devin		Steenkamp		0738223613		INS002		
+Lonwabo		Hopa		0825179437		INS009		
+Lyal		Mapakati		0723685999		INS006		
+Vuyolwethu		Somlota		0735179437		INS010		
+Jaret		Simpson		0733615004		INS004		
+Bracken		Chivers		0732595794		INS004		
+Zane		Huckle		0847010494		INS004		
+Bulelani		Jonas		0727878490		INS004		
+Craig		Sodladla		0732595794		INS002		
+Ayron		Toering		0737054116		INS004		
+Liezl		Jaca		0847878490		INS004		
+Tashrika		Harris		0832365709		INS004		
+Harshil		Raga		0723615004		INS004		
+Ashanti		Daya		0724386383		INS009		
+Greg		Mbengashe		0727183829		INS004		
+Desire		Ah Hing		0737010494		INS009		
+Ryan		Emery		0842595794		INS004		
+Jason		Horn		0847878490		INS005		
+Raisa		Sain		0724244936		INS004		
+Thiolan		Parazee		0727878490		INS001		
+Ryan		Olivier		0735415672		INS011		
+Shane		Renshaw		0735415672		INS004		
+Ashleigh		Brett		0733615004		INS004		
+Travis		Kromhout		0849499608		INS007		
+Linley		Strydom		0847256713		INS004		
+Larissa		Nathoo		0737010494		INS004		
+Nishta		Govender		0738377762		INS004		
+Dylan		Spanjaard		0737010494		INS004		
+Darren		Van Laar		0844244936		INS009		
+Melissa		Johnson		0843685999		INS004		
+Tarren		Adams		0824146572		INS004		
+Durelle		Barends		0839858126		INS008		
+Mvuzo		Ngwendu		0725179437		INS004		
+Timothy		Kim Sing		0722595794		INS004		
+Ryan		Miya		0732595794		INS011		
+Vuyolwethu		Somngesi		0737010494		INS004		
+Kewan		Sokupa		0734146572		INS004		
+Darren		Cairncross		0842943971		INS004		
+Correlie		Pretorius		035125645		INS004		
+Summayah		Lemmer		0723685999		INS002		
+Henriette Gertrud		Erasmus		0872145214		INS004		
+Lynn Melissa		Januarie		0727010494		INS004		
+Tamaran		Swartz		0723685999		INS004		
+Dane		Moore		0734386383		INS004		
+Barry		Schlumf		0737054116		INS004		
+Kylie		Greyling		0845415672		INS004		
+Eden		Jaftha		0844244936		INS004		
+Tamsyn		Majali		0847054116		INS003		
+Darion		Appolis		0827054116		INS003		
+Oreal Isabel		Draai		0828223613		INS008		
+Shelby		Lombard		0845179437		INS003		
+Lee-Ann		Higgins		0833615004		INS004		
+Ndiphiwe		Mayola		0725944470		INS004		
+Lucille		Layman		0729858126		INS004		
+Sachen		Navsaria		0725944470		INS004		
+Trevlin		Govender		0728223613		INS004		
+David		Smith		0732595794		INS007		
+Gabriela		Du Buson		0845179437		INS004		
+Shannon		Links		0849499608		INS009		
+Curt		Pow Chong		0848223613		INS010		
+Kyle		Smith		0847256713		INS002		
+Carla		Thomas		0729499608		INS004		
+Lelethu Siyasanga		Losi		0728816226		INS004		
+Karen		Fortune		0824146572		INS002		
+Siphiwo		Sithonga		0725415672		INS004		
+Neliswa		Mgoqo		0728816226		INS004		
+Zandile		Suka		0737183829		INS004		
+Jason		Scotson		0738223613		INS004		
+Jurisa		Frost		0842595794		INS004		
+Damian		Terblanche		0843685999		INS010		
+Justin		Gin		0844244936		INS004		
+Maxine		Jesson		0842943971		INS006		
+Ariana		Pillay		0727054116		INS004		
+Anna		Stuurman		0722943971		INS004		
+Avela		Goosen		0727010494		INS002		
+Yolisa		Speelman		0737054116		INS004		
+Clair		Dealtry		0732365709		INS004		
+Lauren		Hendrick		0844386383		INS004		
+Shae		Ally		0825179437		INS002		
+Lutho		Mcetywa		0827878490		INS004		
+Samkelisiwe		Myeki		0728816226		INS003		
+Kay		Meyer		0724244936		INS004		
+Alicia		Warmington		0722365709		INS004		
+Mandilakhe		Mankonti		0725179437		INS004		
+Zane		Mitchell		0729858126		INS011		
+Karien		Gade		0844386383		INS004		
+Kelly		Gobodo		0847183829		INS004		
+Ramiro		Agherdien		0839499608		INS004		
+Mcoseleli		Maninjwa		0722595794		INS004		
+Deogracia		King		0723615004		INS005		
+Anjli		Camagu		0724146572		INS011		
+Luke		Mzozoyana		0735415672		INS004		
+Chad		Pepeta		0735179437		INS004		
+Craig		Salie		0735179437		INS004		
+Aileen		Blaaw		0739499608		INS004		
+Meggan		Jewell		0843615004		INS005		
+Caryn		Jacobs		0839499608		INS004		
+Mtozami		Pepeta		0724386383		INS004		
+Sivuyile		Ludidi		0725944470		INS004		
+Kirsten		Goliath		0842365709		INS004		
+Jace		Gibson		0842943971		INS004		
+Shimone		Weldschidt		0725415672		INS004		
+Sarah		Kona		0843615004		INS004		
+Sarah		Le Roux		0843685999		INS004		
+Roche		Deerling		0847010494		INS002		
+Damien		Ally		0824244936		INS004		
+Taryn		Dolley		0827054116		INS002		
+Lee		Howley		0835415672		INS002		
+Karen		Lewis		0722595794		INS010		
+Sibulele		Ntenetyana		0737878490		INS004		
+Aran		Mtshingila		0738816226		INS004		
+Sifikelwe		Quza		0739602087		INS004		
+Thrivini		Narotam		0737256713		INS003		
+Alexa		Botha		0734244936		INS004		
+Flynn		Tait		0732595794		INS004		
+Sian		Luscombe		0847183829		INS004		
+Litha		Bukashe		0824386383		INS004		
+Mark		Matshoba		0724146572		INS004		
+Rory		Plaatjies		0737054116		INS002		
+Chelsea		Cunningham		0737054116		INS002		
+Lauren		Hattle		0844146572		INS004		
+Orlando		Adams		0833685999		INS004		
+Shiraaz		Kock		0829602087		INS004		
+Noluthando		Mjadu		0722943971		INS011		
+Daryn		Songwiqi		0735179437		INS008		
+Kelly		Gilson		0847054116		INS004		
+Simeone		Mabutho		0847878490		INS004		
+Tamryn		Nicholls		0725179437		INS004		
+Jayson		Van Wyk		0847010494		INS004		
+Zaahid		Nash		0832943971		INS004		
+Ntsikelelo		Madikane		0727183829		INS004		
+Carmen		Septoo		0727878490		INS004		
+Cyle		Nonkewuse		0738377762		INS004		
+Ciaran		Peirce		0842595794		INS009		
+Terri		Mare		0843685999		INS008		
+Janis		Bailey		0835415672		INS006		
+Gillian Carmen		Forbes		0839858126		INS004		
+Shané		Julie		0727878490		INS004		
+Hermione Stephlyn Ju		Kayser		0722365709		INS004		
+Miranda		Ting Chong		0735944470		INS004		
+Diane		Doko		0842595794		INS004		
+Zimkhitha		Mcetywa		0724386383		INS001		
+Prishen		Veerapathran		0724146572		INS011		
+Sibulele Sinayo Yeye		Nyweba		0738223613		INS007		
+Brad		Pondo		0737878490		INS004		
+Rinus		Schroeder		0737878490		INS004		
+Joezay		Vermaak		0847183829		INS004		
+Wesley		Wessels		0843685999		INS004		
+Ryan		Ngaleka		0842595794		INS009		
+Kyle		Wessels		0842365709		INS002		
+Carl		Matibela		0722595794		INS004		
+Alicia		August		0828223613		INS004		
+Rischa		Fember		0827054116		INS004		
+Robyn		Piers		0727054116		INS006		
+Craig		Lee Son		0725179437		INS004		
+Ross		Mbambaza		0727054116		INS004		
+Philiswa		Ngqawana		0737183829		INS005		
+Andrew		Tsotsa		0738377762		INS004		
+Ashley		Khan		0848377762		INS002		
+Andani		Mandlevu		0833615004		INS004		
+Dylan		Mabope		0845944470		INS004		
+Antonio		Prince		0822595794		INS004		
+Cindy-Ann Ray		Elie		0828816226		INS004		
+Kaylene		Nazer		0724386383		INS004		
+Cleone		Diedericks		0733615004		INS004		
+Nicole		Louis		0724146572		INS004		
+Vuyo		Zitumane		0722595794		INS004		
+Keeran		Pather		0729858126		INS004		
+Roshan		Appavoo		0725179437		INS004		
+Viahn		Ranchod		0728816226		INS004		
+Vuyelwa		Sogobile		0734386383		INS004		
+Lee-Ann		Hopa		0847054116		INS007		
+Ryan		Paul		0844244936		INS004		
+Mark		Domingo		0843685999		INS004		
+Shane		Erasmus		0844386383		INS004		
+Ra'ees		Ahmed		0837256713		INS004		
+Aspasia		Fudu		0725944470		INS011		
+Eben		Marizanne		0729499608		INS004		
+Sibusisiwe Lucia		Pono		0738377762		INS004		
+Babalwa		Jam		0727054116		INS004		
+Vanesch		Daya		0732595794		INS004		
+Avron		Theart		0734386383		INS004		
+Avinash		Singh		0725944470		INS004		
+Revano		Ranchod		0724244936		INS002		
+Vinod		Ryan		0727183829		INS004		
+Firdous		Ahmed		0739858126		INS004		
+Alex		Pennels		0734386383		INS004		
+Robin		Richmond		0739499608		INS004		
+Siyasanga		Marwana		0728377762		INS004		
+Nathi		Mdutyulwa		0727878490		INS004		
+Kieron		Witbooi		0844244936		INS004		
+Oyama		Ngcingi		0737054116		INS007		
+Sashika		Narain		0733685999		INS004		
+Andrew		Van Kampen		0844146572		INS004		
+Byron		Le Roux		0843615004		INS004		
+Lauren		Geduld		0827010494		INS004		
+Themba		Mphalalo		0723615004		INS004		
+Dean		Myoli		0733685999		INS004		
+Beth		Celela		0739499608		INS010		
+Tarryn		Majola		0847183829		INS004		
+Anele		Mashicila		0833685999		INS010		
+Rhys		Mawela		0724244936		INS004		
+Sean		Kraus		0847054116		INS004		
+Lwambeso		Pistoli		0828223613		INS004		
+Dane		Mostert		0737010494		INS004		
+Justin		Biggs		0847878490		INS002		
+Mark		Allison		0844386383		INS007		
+Stacey		Madikane		0845415672		INS004		
+Tamryn		Mahala		0844244936		INS006		
+Virusha		Pather		0734386383		INS001		
+Kirsty		Damon		0824146572		INS004		
+Lauren		Hendricks		0832943971		INS004		
+Raahil		Theunissen		0725415672		INS003		
+Zubaida		Wentzel		0727256713		INS002		
+Khanyiswa		Kwatsha		0728223613		INS004		
+Kelly		Geyer		0847054116		INS010		
+Tyrone		Jacobs		0849602087		INS004		
+Ross		Gerber		0848816226		INS004		
+Jill Robyn		Jaftha		0724244936		INS004		
+Quentan		Matshaya		0728377762		INS004		
+Zandile Sesethu		Tetani		0738223613		INS004		
+Roxanne		Kimfley		0848223613		INS002		
+Samora		Rwexana		0729602087		INS004		
+Luthando		Makamba		0727256713		INS001		
+Julio		Stali		0737054116		INS004		
+Devin		Stretch		0732365709		INS004		
+Alethea		Watkins		0723685999		INS004		
+Max		Majola		0728377762		INS004		
+Nondwe		Molema		0723685999		INS004		
+Simnikiwe		Radue		0732943971		INS004		
+Steven		Van Der Watt		0737256713		INS004		
+Wade		Marsh		0847010494		INS004		
+Ntombizandile		Ncokazi		0734244936		INS004		
+David		Ruiters		0734244936		INS008		
+Amy		Bowren		0737054116		INS004		
+Callyn		Weitz		0842365709		INS004		
+Darion		Schoeman		0845179437		INS009		
+Lauren		Holmes		0845944470		INS004		
+Juan		Plant		0737183829		INS004		
+Jadine		de Vos		0827010494		INS004		
+Siyamthanda		Manona		0728223613		INS004		
+Lwando		Makupula		0729858126		INS004		
+John		Petersen		0735944470		INS004		
+Shelby		Lord		0845944470		INS004		
+Sivuyile		Meleni		0722595794		INS002		
+Tiffany		Plaatjies		0729602087		INS004		
+Shiraz		Ajam		0824386383		INS004		
+Devin		Damons		0827054116		INS003		
+Venazry		Domingo		0827878490		INS004		
+Mara		Twigg		0724386383		INS010		
+Ugesh		Moodley		0728377762		INS004		
+Warren		Govindasamy		0729602087		INS004		
+Bayanda		Jikijela		0727183829		INS004		
+Nolubabalo		Mguba		0729602087		INS004		
+Keith		Stevens		0739602087		INS004		
+Ricky		Stroebel		0732943971		INS007		
+Keli		Gavu		0847010494		INS004		
+Kirby		Goldberg		0848223613		INS004		
+Fabian		Craill		0847054116		INS004		
+Ashwin		Gowar		0849499608		INS004		
+Masibulele		Jafta		0833685999		INS004		
+Saneah		Ryan		0722595794		INS004		
+Zethu		Xotyeni		0733615004		INS004		
+Morné		Taho		0739858126		INS004		
+Bongani		Lonake		0837256713		INS007		
+Khanya		Ngoza		0822595794		INS004		
+Abigail		Roberts		0727256713		INS002		
+Nomvo		Mnikina		0723615004		INS004		
+Juan		Naidoo		0737256713		INS004		
+Zanele		Thabethe		0738816226		INS004		
+Steven		Willemse		0842595794		INS004		
+Monique		Joseph		0844146572		INS004		
+Dale		Muniz		0842943971		INS004		
+Taryn		Malgas		0849602087		INS004		
+Ashleigh		Goliath		0827054116		INS002		
+Ferne		Govin		0827054116		INS004		
+Melanie		Smith		0728816226		INS004		
+Andrew		Tuck		0738816226		INS004		
+Wesley		Van Rensburg		0844386383		INS004		
+Julie		Fihlani		0849499608		INS004		
+Ashley		Wolfaardt		0845179437		INS011		
+Marissa		Janse van Vuuren		0848377762		INS004		
+Monique		Joubert		0844386383		INS004		
+Ronel		Kariem		0847183829		INS004		
+Sven		Ruiters		0842595794		INS004		
+Tashne		Ross		0729499608		INS004		
+Direshin		Packirie		0729602087		INS004		
+Thokozile		Shiceka		0732595794		INS004		
+Dean		Olkers		0737256713		INS005		
+Felicity		Dolley		0842595794		INS004		
+Larissa		Hageman		0849858126		INS003		
+Brett		Mansell		0847054116		INS004		
+Meaghan		Du Preez		0828377762		INS003		
+Bernice		Graaff		0828816226		INS010		
+Sibabalwe		Sithole		0722943971		INS004		
+Megan		Raubenheimer		0725415672		INS002		
+Betty		Slingers		0728377762		INS004		
+Ian		Malan		0729602087		INS004		
+Lisa		Mabenge		0722943971		INS006		
+Monique		Date Line		0738816226		INS004		
+Andrea		Breidenbach		0737878490		INS004		
+Ilana		Elliott		0845944470		INS004		
+Brett		Ranchod		0733615004		INS010		
+Stash		Silumesi		0732943971		INS004		
+James		Steffens		0738377762		INS002		
+Eldred		Venter		0847054116		INS006		
+Ramiro		Twissell		0847010494		INS004		
+Roxanne		Klue		0848377762		INS004		
+Nadia		Davids		0824244936		INS004		
+Songeziwe		Salukazana		0732595794		INS004		
+Zukiswa		Zuma		0733685999		INS004		
+Kimendri		Moodley		0734146572		INS004		
+Preeti		Mahomed		0732365709		INS004		
+Jenni		Fatyi		0847054116		INS004		
+Sarisha		Attwell		0827183829		INS004		
+Petina		Daya		0824386383		INS004		
+Masixole		Xotyeni		0839858126		INS002		
+Nokuthula		Behrens		0727054116		INS004		
+Johann		Twa Twa		0739602087		INS004		
+Gareth		Van Appel		0732943971		INS007		
+Elriza		Francis		0824244936		INS004		
+Meredith		Jonck		0849858126		INS004		
+Chad		Roux		0848377762		INS004		
+Siyabulela		Hawu		0727878490		INS006		
+Asanda		Cata		0724244936		INS004		
+Luke		Moosa		0735179437		INS004		
+Yves		Parker		0732595794		INS004		
+Charne		Cuming		0737010494		INS009		
+Alex		Steyn		0847256713		INS004		
+Gary		Irvine		0847054116		INS004		
+Kabir		Indarjee		0727256713		INS010		
+Warren		West		0845415672		INS001		
+Kirsty		Goosen		0843615004		INS007		
+Ra'ees		Mashicila		0849602087		INS004		
+Tamlyn		Magopeni		0849858126		INS004		
+Claire		Figg		0839499608		INS004		
+Sean		Mphahlele		0737054116		INS008		
+Caitlin		Clay		0734146572		INS004		
+Ross		Zicwele		0842365709		INS005		
+Furqan		La Bercensie		0829602087		INS004		
+Ricky		Burrell		0825179437		INS010		
+Su-Beth		Magielies		0849499608		INS004		
+Traun		Lottering		0832365709		INS004		
+Aviwe		Grootboom		0727054116		INS004		
+Lunathi		Magqaza		0723615004		INS001		
+Ntombohlanga		Nelani		0735944470		INS002		
+Kevin		Du Preez		0847010494		INS004		
+Sadiya		Bagoes		0828816226		INS004		
+Clarice		Warren		0722943971		INS004		
+Jean		Nxitywa		0739602087		INS006		
+Raeez		Terblanche		0734244936		INS007		
+Scharde		Le Roux		0845415672		INS004		
+Eloise		Chowhan		0822595794		INS005		
+Ryan		Hufkie		0827183829		INS004		
+Mabambodidi		Toyiya		0828377762		INS004		
+Sizwe		Matiwane		0728816226		INS004		
+Dhiren		Mahomed		0728223613		INS004		
+Nontuthuzelo		Mshunqane		0729499608		INS005		
+Hetal		Appavoo		0732595794		INS001		
+Praline		Naicker		0739602087		INS010		
+Shaun		Scheinberg		0737054116		INS004		
+Mark		Nel		0843615004		INS004		
+Tamlyn		Magwa		0842595794		INS006		
+Genevieve		van Rooyen		0727010494		INS004		
+Nelisa		Mente		0728377762		INS004		
+Total learner clients = 429

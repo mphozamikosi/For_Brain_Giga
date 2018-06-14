@@ -1,0 +1,33 @@
+object DataModule2: TDataModule2
+  OldCreateOrder = False
+  Height = 394
+  Width = 621
+  object ADOCon: TADOConnection
+    ConnectionString = 
+      'Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\2017 work\TPG20' +
+      '1T\Database Excercises\QuickBanana.accdb;Persist Security Info=F' +
+      'alse'
+    Provider = 'Microsoft.ACE.OLEDB.12.0'
+    Left = 32
+    Top = 32
+  end
+  object ADOInstructors: TADODataSet
+    Connection = ADOCon
+    Parameters = <>
+    Left = 128
+    Top = 40
+  end
+  object ADOLearnerClients: TADODataSet
+    Parameters = <>
+    Left = 120
+    Top = 144
+  end
+  object dataSrcIns: TDataSource
+    Left = 232
+    Top = 48
+  end
+  object dataSrcLearn: TDataSource
+    Left = 232
+    Top = 152
+  end
+end
